@@ -23,5 +23,5 @@ A command-line chatbot built with Python as part of learning the Anthropic API.
 ## Context
 
 Built while going through Anthropic's "Building with the Claude API" course as a first-year CS student teaching myself AI development beyond college curriculum.
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Initially I was using the Anthropic's API key but then later on I ran out of credits so had to switch to groq's API with free credits and thats how I ran the CLI chatbot(ofc the API key isnt available in the code)
